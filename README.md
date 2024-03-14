@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johntawfik)](https://github.com/anuraghazra/github-readme-stats)
+![John's Skyline](/Users/johntawfik/Desktop/GithubSkyline.mov)
+
 
 - 🔭 I'm currently working on building a Redis Client
 - 🌱 I'm currently learning more about Machine Learning, Distributed Systems, and Competitive Programming
