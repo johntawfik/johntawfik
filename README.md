@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![John's Skyline](/Users/johntawfik/Desktop/GithubSkyline.mov)
+
+
+https://github.com/johntawfik/johntawfik/assets/94028535/6b60f344-5818-4460-ad1b-fb02f991c871
+
 
 
 - 🔭 I'm currently working on building a Redis Client
