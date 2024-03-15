@@ -6,6 +6,8 @@ I'm John Tawfik, a Computer Science student at Rutgers University with a passion
 
 https://github.com/johntawfik/johntawfik/assets/94028535/6b60f344-5818-4460-ad1b-fb02f991c871
 
+### About Me! 🙂
+
 - 🔭 I'm currently focused on building a Redis Client with multi-model NoSQL database server capabilities, including caching, search, and replication functionalities.
 - 🌱 I'm expanding my knowledge in Machine Learning, Distributed Systems, and Competitive Programming.
 - 💬 Ask me about my experience with React, TypeScript, Python, or my projects like building Chrome extensions and optimizing analysis of large datasets.
