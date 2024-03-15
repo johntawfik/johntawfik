@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+##Check Out my GitHub Skyline! 🏙️ 
 
-
-![John's Skyline 🏙️ ](https://github.com/johntawfik/johntawfik/assets/94028535/6b60f344-5818-4460-ad1b-fb02f991c871)
+https://github.com/johntawfik/johntawfik/assets/94028535/6b60f344-5818-4460-ad1b-fb02f991c871
 
 
 
