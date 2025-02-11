@@ -2,18 +2,13 @@
 
 I'm John Tawfik, a Computer Science student at Rutgers University, thanks for checking out my profile!
 
-## GitHub Skyline 🏙️
-
-https://github.com/johntawfik/johntawfik/assets/94028535/6b60f344-5818-4460-ad1b-fb02f991c871
-
 ### About Me! 🙂
 
 - 🔭 I'm currently focused on building a Redis Client with multi-model NoSQL database server capabilities.
 - 🌱 I'm expanding my knowledge in Machine Learning, Distributed Systems, and Competitive Programming.
-- 💬 Ask me about my experience with React, TypeScript, Python, or my projects like optimizing analysis of large datasets.
 - 📫 How to reach me: johntawfik106@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid hiker and traveler!
+- ⚡ Fun fact: I'm an avid hiker and play competitive spikeball!
 
 ### Projects Highlights
 
@@ -25,8 +20,8 @@ https://github.com/johntawfik/johntawfik/assets/94028535/6b60f344-5818-4460-ad1b
 
 ### Education & Experience
 
-- **Education**: Pursuing a Bachelor of Science in Computer Science with a Minor in Quantitative Economics at Rutgers University.
-- **Experience**: I previously conducted undergraduate research on AI for Intelligent Transportation and interned at EcoVerse as a Software Engineer Intern. I'll also be joining HubSpot as a Backend Software Engineer Intern this summer, looking forward to a great one in Cambridge!
+- **Education**: Pursuing a Bachelor of Science in Computer Science at Rutgers University.
+- **Experience**: I previously worked at HubSpot as a SWE intern, conducted undergraduate research on AI for Intelligent Transportation, and interned at EcoVerse as a Software Engineer Intern!
 
 ### Technical Skills
 
@@ -34,4 +29,4 @@ https://github.com/johntawfik/johntawfik/assets/94028535/6b60f344-5818-4460-ad1b
 - **Technologies**: AWS, Git, Jest, Express.js, Unix, Google Cloud, Docker, NumPy, TensorFlow.
 - **Concepts**: Machine Learning, Software Engineering, Algorithms, Fullstack Development, Object-Oriented Programming, Distributed Systems, Databases, and more.
 
-Feel free to explore my projects and don't hesitate to reach out if you have any questions or collaboration opportunities! 😊
+Feel free to explore my projects and don't hesitate to reach out! 😊
