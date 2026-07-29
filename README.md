@@ -1,33 +1,3 @@
 ### Hey 👋
 
-I'm John Tawfik, a Computer Science student at Rutgers University, thanks for checking out my profile!
-
-### About Me! 🙂
-
-- 📚 I'm pursuing a Bachelor of Science in Computer Science at Rutgers University.
-- 🔭 I'm currently focused on using GANs and reinforcement learning to automate semiconductor testing and validation.
-- 🌱 I'm expanding my knowledge in Machine Learning, Distributed Systems, and Competitive Programming.
-- 📫 How to reach me: johntawfik106@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid hiker and play competitive spikeball!
-
-### Work Highlights:
-- **HubSpot**: Collaborated with my engineering manager to develop a Java microservice to integrate HubSpot with Adobe Sign
-- **Rutgers**: Conducted Research on AI for Intelligent Transportation - using YOLOv3 to detect railroad trespassing across 1,600+ hours of surveillance footage, and Kalman filtering for real-time object tracking.
-- **EcoVerse**: I migrated core TypeScript backend systems to an asynchronous queuing architecture, deploying with serverless solutions to Google Cloud Run. 
-
-### Projects Highlights
-
-- **Redis Client**: Built a multi-model NoSQL database server with caching, search, and replication functionality using Python.
-- **CapWhispr**: Engineered an AI-powered platform to automate investment analysis.
-- **Substitutor**: Developed an AI-powered Chrome extension for in-browser learning of multiple languages.
-- **Upper Room Media**: Implemented search and social networking functionality for an educational app with 5000+ users using React, TypeScript, Git, and Tailwind CSS.
-- **AWS Speech Transcriber**: Utilized AWS services to generate and display subtitles in 50+ languages for live streaming video.
-
-### Technical Skills
-
-- **Languages**: JavaScript, TypeScript, Java, C, Python, HTML, CSS.
-- **Technologies**: AWS, Git, Jest, Express.js, Unix, Google Cloud, Docker, NumPy, TensorFlow.
-- **Concepts**: Machine Learning, Software Engineering, Algorithms, Fullstack Development, Object-Oriented Programming, Distributed Systems, Databases, and more.
-
-Feel free to explore my projects and don't hesitate to reach out! 😊
+I'm a SWE at HubSpot building distributed systems to power [Service Hub](https://www.hubspot.com/service/f104b?utm_id=606838794203&utm_term=service_hubspot%20service%20hub_EN&utm_campaign=Service_Portals_EN_NAM_NAM_ServiceHub-Brand_e_c_campaignid13759611518_agid123634894279_google&utm_source=google&utm_medium=paid&utm_content=_&hsa_acc=9694350438&hsa_cam=13759611518&hsa_grp=123634894279&hsa_ad=606838794203&hsa_src=g&hsa_tgt=kwd-451690577222&hsa_kw=hubspot%20service%20hub&hsa_mt=e&hsa_net=adwords&hsa_ver=3&cq_cmp=13759611518&cq_plac=&cq_net=g&gad_source=1&gad_campaignid=13759611518&gbraid=0AAAAADP5F9zj9g7cu7MKpIgEPpQG0FJjW&gclid=CjwKCAjwyabTBhBFEiwAM3mNUODS_TaMWujWsq0sQ-3aIzB1BVSn5-os-e1j9ufpQa8fTWrUaLfLtRoCVIwQAvD_BwE)!
